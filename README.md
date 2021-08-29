@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **DevOps Engineering**
 
-- 🌱 I’m currently learning **DevOps engineering for example AWS,Azure,Big Data,Git,Jenkins,Docker,Kubernetes,Ansible,Puppet,Chef & Linux.**
+- 🌱 I’m currently learning **DevOps engineering for example AWS,Azure,Big Data,Git,Jenkins,Docker,Kubernetes,Ansible,Puppet,Chef,Terraform,Linux & Project management.**
 
 - 👯 I’m looking to collaborate on **DevOps Engineering**
 
